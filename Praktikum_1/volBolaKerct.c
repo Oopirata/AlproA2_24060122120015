@@ -8,11 +8,13 @@
 
 int main()
 {
+    //Kamus
     float r;
     float Vb;
     float Phi = 3.14;
     float Vk;
 
+    //Algoritma
     printf("Masukkan jari-jari :");
     scanf ("%f",&r);
 

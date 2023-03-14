@@ -1,7 +1,7 @@
 /* Nama File    		: volBolaKerct.c */
 /* Deskripsi    		: Menghitung dan menampilkan volume bola Vb di layar, Vb = 4/3 x (Phi x rpangkat3), Menghitung dan menampilkan volume kerucut Vk di layar, Vk = 1/2 x Vb */
 /* Pembuat      		: Hanif Herofa - 24060122120015 */
-/*Tanggal Pembuatan		: 26 Februari 2022 */
+/*Tanggal Pembuatan		: 26 Februari 2023 */
 
 #include <stdio.h>
 #include <stdlib.h>

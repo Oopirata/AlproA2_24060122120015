@@ -1,7 +1,7 @@
 /* Nama File    		: jarakGLBB.c */
 /* Deskripsi    		: Menghitung dan menampilkan jarak S di layar, S = v0 x t + 1/2 x (a x tkuadrat)*/
 /* Pembuat      		: Hanif Herofa - 24060122120015 */
-/*Tanggal Pembuatan		: 22 Februari 2022 */
+/*Tanggal Pembuatan		: 22 Februari 2023 */
 
 #include <stdio.h>
 #include <stdlib.h>

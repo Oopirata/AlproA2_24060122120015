@@ -8,11 +8,13 @@
 
 int main()
 {
+    //Kamus
     float m;
     float v;
     float r;
     float F;
 
+    //Algoritma
     printf("Masukkan massa :");
     scanf ("%f",&m);
     printf("Masukkan kecepatan :");

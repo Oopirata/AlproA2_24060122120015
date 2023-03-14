@@ -8,6 +8,7 @@
 
 int main()
 {
+    //Kamus
     float s1;
     float s2;
     float d1;
@@ -15,6 +16,7 @@ int main()
     float Luas;
     float Kell;
 
+    //Algoritma
     printf("Masukkan sisi satu layang-layang :");
     scanf ("%f",&s1);
     printf("Masukkan sisi dua layang-layang :");

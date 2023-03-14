@@ -1,4 +1,4 @@
-/* Nama File    		: billnteger.c */
+/* Nama File    		: namaHari.c */
 /* Deskripsi    		: Mmenampilkan di layar nama-nama hari dari nomor hari, yaitu 1 s.d. 5 */
 /* Pembuat      		: Hanif Herofa - 24060122120015 */
 /*Tanggal Pembuatan		: 14 Maret 2023 */

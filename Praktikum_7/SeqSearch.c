@@ -1,5 +1,5 @@
 /* Nama File            : SeqSearch.c */
-/* Deskripsi            : Mencari nilai dalam array secara sequential*/
+/* Deskripsi            : Mencari nilai dalam array */
 /* Pembuat              : Hanif Herofa - 24060122120015 */
 /* Tanggal Pembuatan    : 17 Mei 2023 */
 
